@@ -1,1 +1,1 @@
-POWER BI
+📊 Power BI Insights
